@@ -29,7 +29,6 @@ public class Level : MonoBehaviour
     {
         breakableBricks = 0;
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        print(currentSceneIndex);
         SceneManager.LoadScene(currentSceneIndex + 1);
 	}
 
