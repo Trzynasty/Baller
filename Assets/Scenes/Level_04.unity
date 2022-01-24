@@ -387,9 +387,29 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18
+      objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 400008, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400010, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 21200000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_Sprite
@@ -3284,11 +3304,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: ea448cd94239b43b5a5165a7455a9282, type: 3}
       propertyPath: maxX
-      value: 16
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: ea448cd94239b43b5a5165a7455a9282, type: 3}
       propertyPath: minX
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea448cd94239b43b5a5165a7455a9282, type: 3}
