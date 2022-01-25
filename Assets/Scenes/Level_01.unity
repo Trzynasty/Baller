@@ -264,19 +264,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 400000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.04
+      value: 8.47
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.4217796
+      value: 3.0762846
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.97
+      value: 6.36
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.5510323
+      value: 2.9678314
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -327,6 +327,18 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 1b419898a28b9c242857935cb0d8c44a,
         type: 3}
+    - target: {fileID: 21200000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_Size.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 21200000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_Size.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 21200000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11400000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
@@ -426,6 +438,10 @@ PrefabInstance:
       propertyPath: m_AllowMSAA
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2000000, guid: b8d768afa12784b16bf04078835193a3, type: 3}
+      propertyPath: orthographic size
+      value: 5.824314
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 9200000, guid: b8d768afa12784b16bf04078835193a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b8d768afa12784b16bf04078835193a3, type: 3}
@@ -470,11 +486,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: ea448cd94239b43b5a5165a7455a9282, type: 3}
       propertyPath: maxX
-      value: 16
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: ea448cd94239b43b5a5165a7455a9282, type: 3}
       propertyPath: minX
-      value: 1
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea448cd94239b43b5a5165a7455a9282, type: 3}
