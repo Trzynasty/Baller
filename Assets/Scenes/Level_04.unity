@@ -414,7 +414,7 @@ PrefabInstance:
     - target: {fileID: 21200000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 3d01881046e767941b1d23972cb3a269,
+      objectReference: {fileID: 21300000, guid: a493db9dc6a84ac449991b12d6463ef3,
         type: 3}
     - target: {fileID: 21200000, guid: 1f6b11df373294dfca036689e4deca7d, type: 3}
       propertyPath: m_Color.a
@@ -2150,11 +2150,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 400000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.18
+      value: 11.06
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.01
+      value: 1.82
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2182,15 +2182,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.4596
+      value: 0.89026535
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.4596
+      value: 0.89026535
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.4596
+      value: 0.89026535
       objectReference: {fileID: 0}
     - target: {fileID: 5000000, guid: ff5536fe472d646e4945941b0dbdb7c7, type: 3}
       propertyPath: m_AngularDrag
